@@ -8,7 +8,7 @@ _Funções com Sobrecagra = FC_
 *Mas dessa vez(Com a CPU em 100%) eu aprendi FC  e FP*
 
 
-*Simples, um FP, é uma função que contem varios parametros que ja estão definidos, como ja estão definidos, o proprio C++ olha e diz: "Uhm, nao preciso xingar o programmer para ele colocar mais argumentos👍*
+*Simples, um FP, é uma função que contem varios parametros que ja estão definidos, como ja estão definidos, o proprio C++ olha e diz: "Uhm, nao preciso xingar o programmer para ele colocar mais argumentos👍"*
 
 *Nos chamamos isso de Parametros Opcionais*
 
