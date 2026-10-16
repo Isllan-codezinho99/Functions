@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="functions/functions.vcxproj" Id="1219fe35-d60d-44b2-abb7-1c00f16a5472" />
+</Solution>
